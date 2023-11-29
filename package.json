@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "ARC_ENV=testing node test.mjs"
+  },
+  "dependencies": {
+    "@architect/sandbox": "^5.9.4",
+    "@aws-lite/client": "^0.11.4",
+    "@aws-lite/dynamodb": "^0.2.4"
+  }
+}
